@@ -1,0 +1,49 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Compiled files
+*.o
+*.out
+*.exe
+
+# Configuration files (if they contain sensitive info)
+config.ini
+*.config
+
+# Environment files
+.env
+
+# Backup files
+*~ 
+*.swp
+
+# Node modules (if applicable)
+node_modules/
+
+# Python cache files (if applicable)
+__pycache__/
+*.py[cod]
+
+# Other specific files to ignore
+*.zip
+*.tar.gz
+*.tgz
+
+# IDE and Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files created by editors
+*.swp
+*.swo
