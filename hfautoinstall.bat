@@ -4,6 +4,9 @@ setlocal enabledelayedexpansion
 :: BEFORE MODIFICATION, COPYING, SELLING, COMPILING, ETC., PLEASE CHECK THE LICENSE.
 :: THIS LICENSE DOES NOT CONSTITUTE LEGAL ADVICE.
 
+:: This is the windows version of this autoinstaller.
+:: To us the macos/linux version, go to the .sh file
+
 :: ---------------------------------------------------
 ::       Hardened Firefox Autoinstaller - 1.0
 :: ---------------------------------------------------
